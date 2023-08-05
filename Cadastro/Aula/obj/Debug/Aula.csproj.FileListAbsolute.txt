@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\Aula\obj\Debug\Aula.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula\obj\Debug\Aula.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aula\obj\Debug\Aula.Form1.resources
+C:\Users\Aluno\Desktop\Aula\obj\Debug\Aula.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aula\obj\Debug\Aula.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Aula\obj\Debug\Aula.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula\bin\Debug\Dbpessoa.mdf
+C:\Users\Aluno\Desktop\Aula\bin\Debug\Dbpessoa_log.ldf
+C:\Users\Aluno\Desktop\Aula\bin\Debug\Aula.exe.config
+C:\Users\Aluno\Desktop\Aula\bin\Debug\Aula.exe
+C:\Users\Aluno\Desktop\Aula\bin\Debug\Aula.pdb
+C:\Users\Aluno\Desktop\Aula\obj\Debug\Aula.exe
+C:\Users\Aluno\Desktop\Aula\obj\Debug\Aula.pdb
